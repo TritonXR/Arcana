@@ -31,5 +31,11 @@ public class CameraController : MonoBehaviour {
         {
             transform.Translate(0, 0, Input.GetAxis("Vertical") * -1 * movementSpeed * Time.deltaTime);
         }
+
+        Vector3 playerPos = this.transform.position;
+
+        playerPos.y = Terrain.activeTerrain.SampleHeight(this.transform.position) + 3.0f;
+
+        this.transform.position = playerPos;
 	}
 }

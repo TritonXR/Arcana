@@ -16,7 +16,6 @@ public class LuxToggle : MonoBehaviour {
         {
             if (Input.GetKeyDown(KeyCode.Space))
             {
-                //GetComponent<Renderer>().enabled = !GetComponent<Renderer>().enabled;
                 if (child.gameObject.activeSelf)
                 {
                     child.gameObject.SetActive(false);
@@ -24,6 +23,25 @@ public class LuxToggle : MonoBehaviour {
                 else
                 {
                     child.gameObject.SetActive(true);
+                }
+            }
+
+            if(child.gameObject.activeSelf)
+            {
+                if(Input.GetKeyDown(KeyCode.W))
+                {
+                    Light lt = child.gameObject.GetComponent<Light>();
+                    //Material mat = child.gameObject.GetComponent<Renderer>().material;
+                    if(lt.color == Color.blue)
+                    {
+                        lt.color = Color.Lerp(Color.blue, Color.white, 3);
+                        //mat.SetColor("white", Color.white);
+                    }
+                    else
+                    {
+                        lt.color = Color.Lerp(Color.white, Color.blue, 3);
+                        //mat.SetColor("blue", Color.blue);
+                    }
                 }
             }
         }
