@@ -34,7 +34,7 @@ public class CameraController : MonoBehaviour {
 
         Vector3 playerPos = this.transform.position;
 
-        playerPos.y = Terrain.activeTerrain.SampleHeight(this.transform.position) + 3.0f;
+        playerPos.y = Terrain.activeTerrain.SampleHeight(this.transform.position) + 2.5f;
 
         this.transform.position = playerPos;
 	}
