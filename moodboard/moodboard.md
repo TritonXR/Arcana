@@ -6,9 +6,9 @@
 
 #### Entrance Hall
 
-![](/images/entrancehall.jpg)
-![](/images/entrancehall1.jpg)
-![](/images/entrancehall2.jpg)
+![](moodboard/images/entrancehall.jpg)
+![](moodboard/images/entrancehall1.jpg)
+![](moodboard/images/entrancehall2.jpg)
 
 ### Mechanics Moodboard
 
