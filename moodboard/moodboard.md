@@ -3,7 +3,7 @@
 
 #### *To put embed an image in this document, _upload_ your image to the images folder, then use this format to embed:
 ! [] (/moodboard/images/______)   <-- no spaces*
-#### *Remember to not have spaces in your image name ("entranceHall", not "entrance Hall") and have the .jpg or .png at the end.*
+#### *Remember to exclude spaces in the image name ("entranceHall", not "entrance Hall") and have the .jpg or .png at the end.*
 
 ### Environment Moodboard
 
