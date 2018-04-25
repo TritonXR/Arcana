@@ -5,8 +5,10 @@
 
 
 #### Entrance Hall
-![](/images/entrancehall.jpg)
 
+![](/images/entrancehall.jpg)
+![](/images/entrancehall1.jpg)
+![](/images/entrancehall2.jpg)
 
 ### Mechanics Moodboard
 
