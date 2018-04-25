@@ -5,7 +5,7 @@
 
 
 #### Entrance Hall
-![](Arcana/moodboard/images/entrancehall.jpg)
+![](/images/entrancehall.jpg)
 
 
 ### Mechanics Moodboard
