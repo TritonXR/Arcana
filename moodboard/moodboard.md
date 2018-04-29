@@ -26,4 +26,4 @@
 
 #### Christian Sketches
 
-![](/moodboard/images/Sketch_-_Courtyard.jpg)
+![](/moodboard/images/Sketch - Courtyard.jpg)
