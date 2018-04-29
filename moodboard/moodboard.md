@@ -26,6 +26,6 @@
 
 #### Christian Sketches
 
-![](/moodboard/images/Sketch_Level.jpg)
-![](/moodboard/images/Sketch_Courtyard.jpg)
-![](/moodboard/images/Sketch_Hallway.jpg)
+![](/moodboard/images/Sketch - Level.jpg)
+![](/moodboard/images/Sketch - Courtyard.jpg)
+![](/moodboard/images/Sketch - Hallway.jpg)
