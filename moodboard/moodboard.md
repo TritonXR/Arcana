@@ -12,11 +12,18 @@
 
 ![](/moodboard/images/entrancehall.jpg)
 ![](/moodboard/images/entrancehall1.jpg)
+![](/moodboard/images/Lecture_Classroom.jpg)
+
+#### Classrooms
+
+![](/moodboard/images/Charms_classroom.jpg)
+![](/moodboard/images/potions_classroom.jpg)
 ![](/moodboard/images/entrancehall2.jpg)
 
 ### Mechanics Moodboard
 
 ### Level Moodboard
-![](/moodboard/images/Lecture_Classroom.jpg)
-![](/moodboard/images/Charms_classroom.jpg)
-![](/moodboard/images/potions_classroom.jpg)
+
+#### Christian Sketches
+
+![](/moodboard/images/Sketch_-_Courtyard.jpg)
