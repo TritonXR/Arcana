@@ -17,3 +17,6 @@
 ### Mechanics Moodboard
 
 ### Level Moodboard
+![](/moodboard/images/Lecture_Classroom.jpg)
+![](/moodboard/images/Charms_classroom.jpg)
+![](/moodboard/images/potions_classroom.jpg)
